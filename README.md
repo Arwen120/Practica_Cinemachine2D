@@ -9,7 +9,7 @@ En esta práctica se han realizado diferentes ejercicios utilizando Unity y Cine
 ### Ejercicio 1. Cámaras con diferentes zonas de seguimiento
 Creación y configuración de dos cámaras con diferentes zonas de seguimiento para observar cómo cambia la vista según la posición del jugador.
 
-![Práctica 1](Documentation/Practica1.gif)
+![Práctica 1](Documentation/Práctica1.gif)
 
 ### Ejercicio 2. Límites de cámara
 Configuración de límites mediante Cinemachine Confiner 2D para restringir el movimiento de la cámara a determinadas zonas.
@@ -29,7 +29,7 @@ Incorporación de más personajes al Target Group y modificación de sus pesos p
 ### Ejercicio 5. Sacudida de cámara
 Utilización de Cinemachine Impulse para provocar una sacudida de cámara al pulsar la barra espaciadora.
 
-![Práctica 5](Documentation/Practica5.gif)
+![Práctica 5](Documentation/Prácitca5.gif)
 
 ### Ejercicio 6. Control del zoom
 Creación de un script para acercar y alejar la cámara mediante las teclas W y S, estableciendo límites de zoom.
