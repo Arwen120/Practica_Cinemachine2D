@@ -14,17 +14,17 @@ Creación y configuración de dos cámaras con diferentes zonas de seguimiento p
 ### Ejercicio 2. Límites de cámara
 Configuración de límites mediante Cinemachine Confiner 2D para restringir el movimiento de la cámara a determinadas zonas.
 
-![Práctica 2](Documentation/Practica2.gif)
+![Práctica 2](Documentation/Práctica2.gif)
 
 ### Ejercicio 3. Seguimiento de varios personajes
 Configuración de una cámara para seguir a varios personajes en movimiento y mantenerlos dentro de la vista.
 
-![Práctica 3](Documentation/Practica3.gif)
+![Práctica 3](Documentation/Práctica3.gif)
 
 ### Ejercicio 4. Target Group y ponderaciones
 Incorporación de más personajes al Target Group y modificación de sus pesos para controlar la importancia de cada uno en el encuadre.
 
-![Práctica 4](Documentation/Practica4.gif)
+![Práctica 4](Documentation/Práctica4.gif)
 
 ### Ejercicio 5. Sacudida de cámara
 Utilización de Cinemachine Impulse para provocar una sacudida de cámara al pulsar la barra espaciadora.
@@ -34,17 +34,17 @@ Utilización de Cinemachine Impulse para provocar una sacudida de cámara al pul
 ### Ejercicio 6. Control del zoom
 Creación de un script para acercar y alejar la cámara mediante las teclas W y S, estableciendo límites de zoom.
 
-![Práctica 6](Documentation/Practica6.gif)
+![Práctica 6](Documentation/Práctica6.gif)
 
 ### Ejercicio 7. Cambio entre cámaras mediante teclado
 Creación de un script para activar y desactivar dos cámaras utilizando las teclas 1 y 2.
 
-![Práctica 7](Documentation/Practica7.gif)
+![Práctica 7](Documentation/Práctica7.gif)
 
 ### Ejercicio 8. Selección de cámara mediante interfaz
 Creación de una interfaz con dos botones que permiten seleccionar cuál de las dos cámaras está activa.
 
-![Práctica 8](Documentation/Practica8.gif)
+![Práctica 8](Documentation/Práctica8.gif)
 
 ### Ejercicio 9. Cámara lenta
 Creación de un sistema que reduce la velocidad del juego cuando el jugador entra en contacto con un objeto determinado.
